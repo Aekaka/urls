@@ -42,4 +42,6 @@ THE WEIGHTS AND BIASES RUNS
 
 
 
+The Decision Tree model outperforms the Logistic Regression model with a higher accuracy of 95% compared to 75%. It shows better precision and recall, especially for the primary classes. Despite both models struggling with minor classes, the Decision Tree consistently provides more reliable predictions, making it the preferable choice for phishing URL detection.
 
+By leveraging W&B for logging and visualization, we gained comprehensive insights into model performance, allowing for informed decision-making in selecting the best model for this task.
